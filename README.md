@@ -6,7 +6,7 @@ A Machine Learning powered web application that predicts the risk of heart disea
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed app link here)*
+👉 https://heart-disease-prediction-4gmhrdqdvmsu7hutpnsttw.streamlit.app/
 
 ---
 
